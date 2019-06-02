@@ -1,0 +1,116 @@
+body {
+    background-image: url("https://i.imgur.com/SIxuWSs.jpg");
+    background-size: 100%;
+}
+
+#div1 {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border: 1px solid white;
+    position: absolute;
+    background-image: url("https://www.seekpng.com/png/small/2-21551_jupiter-planet-png-transparent-jupiter-planet-jupiter-png.png");
+    background-size: 100%;
+}
+
+#div2 {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    border: 1px solid white;
+    background-image: url("https://i.pinimg.com/564x/3e/33/0b/3e330bb252cb2d1059d95bf128ec0e1a.jpg");
+    background-size: 100%;
+    position: absolute;
+
+}
+
+#div3 {
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    border: 1px solid white;
+    background-image: url("https://i.pinimg.com/564x/c9/6d/1d/c96d1d957e7f08ec882d3b00e225a79b.jpg");
+    background-size: 100%;
+    border: 1px;
+    position: absolute;
+}
+
+#div4 {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    background-image: url("https://i.pinimg.com/564x/43/f9/40/43f94021d53a3e86f046996475883616.jpg");
+    background-size: 100%;
+    border: 1px;
+    position: absolute;
+}
+
+#div5 {
+    border-radius: 50%;
+    margin-top: 30%;
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    background-image: url("https://i.pinimg.com/564x/ae/c6/7c/aec67c5c6d9b48899317d2bc7bac73fd.jpg");
+    background-size: 100%;
+    position: absolute;
+}
+
+#div6 {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    margin-top: 30%;
+    background-image: url("https://i.pinimg.com/564x/92/d2/16/92d21695c213ecaf7b7a275eb4d87924.jpg");
+    background-size: 100%;
+    border: 1px solid black;
+    position: absolute;
+
+}
+
+#div7 {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-top: 12%;
+    background-image: url("https://i.pinimg.com/564x/88/45/96/8845966cd05ed2491cc242db7ecce6b6.jpg");
+    background-size: 100%;
+    border: 1px solid white;
+    position: absolute;
+}
+
+#div8 {
+    margin: auto;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-image: url("https://i.pinimg.com/564x/14/68/cc/1468ccf22a34f9f3bbfdf6c3d8122578.jpg");
+    background-size: 100%;
+    border: 1px solid white;
+    position: absolute;
+}
+
+#div9 {
+    margin: auto;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    background-image: url("https://i.pinimg.com/564x/ad/88/71/ad8871779a00a81247011767a5ec87c6.jpg");
+    background-size: 100%;
+    border: 1px solid white;
+    position: absolute;
+
+}
+
+#div10 {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    margin-top: 40%;
+    background-image: url("https://i.pinimg.com/564x/85/8f/6e/858f6efc69d288ebe83307b7e011391e.jpg");
+    background-size: 100%;
+    border: 1px solid white;
+    position: absolute;
+}
